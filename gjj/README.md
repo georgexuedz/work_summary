@@ -4,3 +4,4 @@ The platform is served for multi kinds of device, like phone, web, and ERP.
 We used gunicorn frame and gevent to deal thousands requests in one second.  
 I am in charge of some important modules like construct, upload and access.  
 I am good at resolving bug, and reconstrcting shit code.  
+No matter device development or internet indust, all is deal.  
